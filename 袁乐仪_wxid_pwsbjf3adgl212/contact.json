@@ -1,0 +1,28 @@
+{
+  "id": 581,
+  "username": "wxid_pwsbjf3adgl212",
+  "local_type": 1,
+  "alias": "ChristinaY327",
+  "encrypt_username": "v3_020b3826fd03010000000000ed561353bb8f8e000000501ea9a3dba12f95f6b60a0536a1adb67c0780fefe0668b23b88ef103d06680b3c0c88c863a4b6d4924f91b3384c23f110ee9fc93033881486f4ad8592fdc7aa56d8e7d91c6887047ee13c9e00@stranger",
+  "flag": 3,
+  "delete_flag": 0,
+  "verify_flag": 0,
+  "remark": "袁乐仪⭕️",
+  "remark_quan_pin": "yuanyueyi??",
+  "remark_pin_yin_initial": "YYY??",
+  "nick_name": "Christina. Y",
+  "pin_yin_initial": "CHRISTINAY",
+  "quan_pin": "ChristinaY",
+  "big_head_url": "https://wx.qlogo.cn/mmhead/ver_1/OLBc9Ymia8akhNncYP9DHI9xA1brrB5ZW3Gz4icJRIcwxN56rdyRRbgt70ExmWiccTqCQCKcGeV3GE21VEYLpbzBqc85dCalLKv3IknO80EIvBmh3zfx5o80osWtZ5jVFHo/0",
+  "small_head_url": "https://wx.qlogo.cn/mmhead/ver_1/OLBc9Ymia8akhNncYP9DHI9xA1brrB5ZW3Gz4icJRIcwxN56rdyRRbgt70ExmWiccTqCQCKcGeV3GE21VEYLpbzBqc85dCalLKv3IknO80EIvBmh3zfx5o80osWtZ5jVFHo/132",
+  "head_img_md5": "ab40780a201002e1027a454a3ae6c5d1",
+  "chat_room_notify": 0,
+  "is_in_chat_room": 0,
+  "description": "",
+  "extra_buffer": {
+    "type": "bytes",
+    "size": 306,
+    "hex": "10021800221be79b90e4ba8ee5be8be5b7b1efbc8ce7949ce4bba5e5be85e4baba2a02434e32085368616e676861693a135075646f6e67204e657720446973747269637440064a0050ffffffff0f58036000720208007a00800100880101900101980100a20100aa0100b00100b80100c00100ca0100d20100da01870108011272687474703a2f2f737a6d6d736e732e717069632e636e2f6d6d736e732f6963723350473130363642357746507a48306d3266584e6962586873367a4c44457a42677a634669637765394c4a756b69625674357053696269635372696369624e7659444f30713942346d51386c484365412f3018dca488c3bfbfd68bc30120803528e021e20100ea0100f20100fa01008202008a02020a009202009a0200a20200a80200b002ffffffff0fc80285be93e005"
+  },
+  "chat_room_type": 0
+}

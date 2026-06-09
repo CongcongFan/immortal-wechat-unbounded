@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "source_dir": "C:\\Users\\76135\\Downloads\\codex-cong\\wechat-supplier-sync\\exports\\chat-archives\\袁乐仪_wxid_pwsbjf3adgl212",
+  "cutoff": "2022-12-31 23:59:59",
+  "kept_messages": 36866,
+  "removed_after_2022": 147,
+  "first_message_time": "2018-12-03 17:43",
+  "last_message_time": "2022-12-11 10:51",
+  "promoted_filtered_records": true,
+  "archive_dir": "C:\\Users\\76135\\Downloads\\codex-cong\\wechat-supplier-sync\\exports\\chat-archives\\袁乐仪_wxid_pwsbjf3adgl212",
+  "remaining_messages": 36866,
+  "post_2022_records_remaining": 0,
+  "removed_unreferenced_media_files": 9,
+  "removed_unreferenced_decoded_files": 3,
+  "note": "Only records up to 2022-12-31 are retained in this archive."
+}
