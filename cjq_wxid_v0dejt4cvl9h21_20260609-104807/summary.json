@@ -1,0 +1,32 @@
+{
+  "target_wxid": "wxid_v0dejt4cvl9h21",
+  "chat_title": "蔡佳琪",
+  "export_dir": "C:\\Users\\76135\\Downloads\\codex-cong\\wechat-supplier-sync\\exports\\wechat_full_chat\\wxid_v0dejt4cvl9h21_20260609-104807",
+  "message_count": 845,
+  "type_counts": {
+    "text": 662,
+    "sticker": 56,
+    "voice": 61,
+    "image": 33,
+    "file_or_link": 14,
+    "video": 18,
+    "system": 1
+  },
+  "media_messages": 182,
+  "matched_media_messages": 50,
+  "copied_media_files": 54,
+  "unmatched_media_messages": 132,
+  "first_message_time": "2024-12-08 21:21",
+  "last_message_time": "2025-01-20 21:36",
+  "media_roots": [
+    "C:\\Users\\76135\\OneDrive\\Documents\\xwechat_files\\wxid_3f644288uami12_70ce\\msg\\attach",
+    "C:\\Users\\76135\\OneDrive\\Documents\\xwechat_files\\wxid_3f644288uami12_70ce\\msg\\file",
+    "C:\\Users\\76135\\OneDrive\\Documents\\xwechat_files\\wxid_3f644288uami12_70ce\\msg\\video",
+    "C:\\Users\\76135\\OneDrive\\Documents\\xwechat_files\\wxid_3f644288uami12_70ce\\cache",
+    "C:\\Users\\76135\\OneDrive\\Documents\\xwechat_files\\wxid_3f644288uami12_70ce\\resource"
+  ],
+  "structured_media_metadata_messages": 172,
+  "local_md5_extra_files": 33,
+  "note": "Full text history is exported. Local media files are copied when present; XML media metadata is preserved for all media messages with md5/aeskey/cdn fields even when local files are absent.",
+  "business_emoticon_extra_files": 24
+}
